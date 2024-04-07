@@ -1,0 +1,22 @@
+{
+  "name": "mongo_top250",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^12.0.1",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
